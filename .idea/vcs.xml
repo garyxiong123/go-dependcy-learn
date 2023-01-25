@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/garyxiong123-go-depency-A" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-depency-A" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-depency-B" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-depency-C" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/go-depency-P" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+
+# go-depency-B
